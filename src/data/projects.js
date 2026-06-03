@@ -126,6 +126,25 @@ const projects = [
       live: "https://latest-black.vercel.app",
       github: "https://github.com/unread-sealant1/airbnb-clone"
     }
+  },
+  {
+    slug: "joe-black-adventures",
+    name: "Joe Black Adventures",
+    type: "Production",
+    shortDescription: "A live production website for adventure and outdoor experiences, built with a focus on content presentation and user engagement.",
+    longDescription: "Joe Black Adventures is a live production website built to showcase adventure content, trips, and outdoor experiences. The platform delivers a clean, immersive browsing experience with structured content pages, media integration, and a focus on storytelling through design.",
+    role: "Full-stack development. Built the frontend architecture, content management integration, and deployment pipeline.",
+    stack: ["React", "Node.js", "TailwindCSS", "Express"],
+    features: [
+      "Content-driven pages with rich media",
+      "Responsive design across all devices",
+      "Clean navigation and information architecture",
+      "Performance-optimized asset delivery",
+      "SEO-friendly structure"
+    ],
+    links: {
+      live: "https://joeblackadventures.com"
+    }
   }
 ];
 
